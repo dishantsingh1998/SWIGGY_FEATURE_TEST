@@ -4,7 +4,6 @@
 	<listeners>
 		<listener class-name="com.listeners.TestListener"></listener>
 	</listeners>
-
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="com.swiggy.testscripts.TestRunner"></class>
